@@ -1,3 +1,5 @@
+# Exercícios Práticos
+
 # 1 - Crie um programa que declare as seguintes variáveis:
 # ● nome: seu nome.
 # ● idade: sua idade.
